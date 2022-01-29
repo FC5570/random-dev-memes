@@ -1,0 +1,24 @@
+{
+  "name": "random-dev-memes",
+  "version": "1.0.0",
+  "description": "Returns random dev memes, can be used as an API or in your Github Readme.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FC5570/random-dev-memes.git"
+  },
+  "author": "FC5570",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FC5570/random-dev-memes/issues"
+  },
+  "homepage": "https://github.com/FC5570/random-dev-memes#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "fastify": "^3.27.0",
+    "phin": "^3.6.1"
+  },
+  "prettier": {
+    "singleQuote": true
+  }
+}
