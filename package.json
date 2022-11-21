@@ -15,7 +15,7 @@
   "homepage": "https://github.com/FC5570/random-dev-memes#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.10",
-    "fastify": "^3.27.0",
+    "fastify": "^3.29.4",
     "phin": "^3.6.1"
   },
   "prettier": {
